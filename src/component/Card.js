@@ -20,7 +20,7 @@ function Card(props) {
             <p>{totalRatings} STARS</p>
             <p>Time to deliver: {avgRating} </p>
     
-    
+             
      
     </div>
   )
